@@ -4,11 +4,6 @@
   "containerEnv": {
     "VERSION": "11"
   },
-  "hostRequirements": {
-   "cpus": 8,
-   "memory": "32gb",
-   "storage": "64gb"
-  },
   "forwardPorts": [8006],
   "portsAttributes": {
     "8006": {
